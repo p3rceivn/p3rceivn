@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech, web development, design
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on future projects to develop my portfolio
-- 📫 How to reach me --> arestrepo680@gmail.com
+- 📫 How to reach me --> p3rceivn@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am training to run a marathon
 
